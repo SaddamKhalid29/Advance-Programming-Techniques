@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <ID>0</ID>
+    <Name>No Name</Name>
+    <Age>0</Age>
+    <Gender>Male</Gender>
+    <Gmail>abc@uog.edu.pk</Gmail>
+    <DOB>2022-02-25T11:29:09.1356103-08:00</DOB>
+  </Student>
+</ArrayOfStudent>

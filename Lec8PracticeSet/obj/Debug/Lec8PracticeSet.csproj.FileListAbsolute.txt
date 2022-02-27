@@ -1,0 +1,11 @@
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\bin\Debug\Lec8PracticeSet.exe.config
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\bin\Debug\Lec8PracticeSet.exe
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\bin\Debug\Lec8PracticeSet.pdb
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.csproj.AssemblyReference.cache
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.csproj.SuggestedBindingRedirects.cache
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.Form1.resources
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.Properties.Resources.resources
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.csproj.GenerateResource.cache
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.csproj.CoreCompileInputs.cache
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.exe
+D:\5thSemester\APT\C# Programs\FormApp2\FormApp2\Lec8PracticeSet\obj\Debug\Lec8PracticeSet.pdb
